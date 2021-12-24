@@ -1,0 +1,7 @@
+C:\Users\marve\source\repos\Homework_11\bin\Debug\Homework_11.exe.config
+C:\Users\marve\source\repos\Homework_11\bin\Debug\Homework_11.exe
+C:\Users\marve\source\repos\Homework_11\bin\Debug\Homework_11.pdb
+C:\Users\marve\source\repos\Homework_11\obj\Debug\Homework_11.csproj.AssemblyReference.cache
+C:\Users\marve\source\repos\Homework_11\obj\Debug\Homework_11.csproj.CoreCompileInputs.cache
+C:\Users\marve\source\repos\Homework_11\obj\Debug\Homework_11.exe
+C:\Users\marve\source\repos\Homework_11\obj\Debug\Homework_11.pdb
